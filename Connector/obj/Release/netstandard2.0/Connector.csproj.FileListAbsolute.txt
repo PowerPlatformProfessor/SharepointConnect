@@ -1,0 +1,10 @@
+C:\Users\danijel.buljat\source\repos\Connector\bin\Release\netstandard2.0\Connector.deps.json
+C:\Users\danijel.buljat\source\repos\Connector\bin\Release\netstandard2.0\Connector.dll
+C:\Users\danijel.buljat\source\repos\Connector\bin\Release\netstandard2.0\Connector.pdb
+C:\Users\danijel.buljat\source\repos\Connector\obj\Release\netstandard2.0\Connector.csprojAssemblyReference.cache
+C:\Users\danijel.buljat\source\repos\Connector\obj\Release\netstandard2.0\Connector.Properties.Resources.resources
+C:\Users\danijel.buljat\source\repos\Connector\obj\Release\netstandard2.0\Connector.csproj.GenerateResource.cache
+C:\Users\danijel.buljat\source\repos\Connector\obj\Release\netstandard2.0\Connector.AssemblyInfoInputs.cache
+C:\Users\danijel.buljat\source\repos\Connector\obj\Release\netstandard2.0\Connector.AssemblyInfo.cs
+C:\Users\danijel.buljat\source\repos\Connector\obj\Release\netstandard2.0\Connector.dll
+C:\Users\danijel.buljat\source\repos\Connector\obj\Release\netstandard2.0\Connector.pdb
