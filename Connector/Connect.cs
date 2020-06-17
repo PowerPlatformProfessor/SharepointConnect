@@ -10,7 +10,7 @@ namespace Connector
 {
     public static class Connect
     {
-        private static string sharePointAPIUri = https://yourdomain.sharepoint.com/_api/web/;
+        private static string sharePointAPIUri = "https://yourdomain.sharepoint.com/_api/web/";
         private static readonly HttpClient _client = new HttpClient
         {
             BaseAddress = new Uri(sharePointAPIUri),
